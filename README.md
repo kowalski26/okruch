@@ -1,0 +1,2 @@
+# okruch
+strona okruch
